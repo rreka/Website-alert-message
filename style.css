@@ -1,0 +1,38 @@
+.alert-box {
+    background: #fff9db;
+    border-width: 0 0 0 1rem;
+    border-style: solid;
+    padding: .9375rem 2rem .9375rem .9375rem;
+    color: #333;
+    margin-bottom: 1.25rem;
+    border-color: #ffd440;
+    display: block;
+    position: relative;
+
+    /* Styling that probably will come from the website */
+    font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.container {
+  padding: 5em 25em
+}
+
+a {
+    color: #06c;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
